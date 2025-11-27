@@ -121,10 +121,7 @@ OPENROUTER_API_KEY=your_key_here
 # ▶️ How to Run
 
 1. Clone the repository
-2. Add:
-
-   * `Json_schema.json` into `data/`
-   * 5-shot examples into `data/five_shot/`
+2. Create .env file and add your api key to OPENROUTER_API_KEY=your_key_here
 3. Open the notebook
 4. Run all cells
 
